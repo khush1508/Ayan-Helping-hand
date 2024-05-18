@@ -3,7 +3,7 @@
 ## Project Overview
 Ayan - A Helping Hand is a comprehensive disaster relief ecosystem designed to provide support during critical periods. This platform encompasses various services such as peer-to-peer volunteer support, donation payment methods, vendor services, local medical aid, rehabilitation, and offline location sharing. It aims to connect community members with essential services through an integrated communication system.
 
-![Ayan - A Helping Hand](assets/img/Screenshot 2024-05-18 193519.png)
+![Ayan - A Helping Hand](firstpage.png)
 
 ## Team Members
 This project was developed by a team of four members:
@@ -21,7 +21,7 @@ This project was developed by a team of four members:
 - **Offline Location Sharing**: Enables sharing of location information without internet access.
 - **Comprehensive Communication System**: Integrates communication channels to ensure connectivity during critical periods.
 
-![Services](assets/img/second page.png)
+![Services](secondpage.png)
 
 ## Technologies Used
 - **Frontend**: HTML, CSS, JavaScript
